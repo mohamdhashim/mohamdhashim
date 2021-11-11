@@ -4,7 +4,7 @@
 
 #### 👨🏻‍💻  About Me
 
-- 🔭 I’m currently working on [OpenBook](https://github.com/mohamdzezo/WebProjects/tree/main/OpenBook)
+- 🔭 I’m currently working on [OpenBook](https://github.com/mohamdhashim/WebProjects/tree/main/OpenBook)
 
 - 🌱 I’m currently learning **Full-stack Web Development || Software Architecture || Design Patterns**
 
@@ -18,15 +18,15 @@
 
 - 📫 How to reach me **mohamdhashiem@gmail.com**
 
-[![Mohamd's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohamdzezo&theme=xcode)](https://git.io/mohamdzezo)
+[![Mohamd's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohamdhashim&theme=xcode)](https://git.io/mohamdhashim)
 
 
 
  <p align="center">
-  &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamdzezo&show_icons=true&locale=en&theme=radical" alt="mohamedhashim" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamdzezo&theme=radical" alt="mohamedhashim" />
+  &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamdhashim&show_icons=true&locale=en&theme=radical" alt="mohamedhashim" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamdhashim&theme=radical" alt="mohamedhashim" />
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamdzezo&show_icons=true&locale=en&layout=compact&theme=radical" alt="mohamedHashim" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamdhashim&show_icons=true&locale=en&layout=compact&theme=radical" alt="mohamedHashim" /></p>
 
 
 
