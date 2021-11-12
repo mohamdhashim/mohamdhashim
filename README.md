@@ -4,7 +4,7 @@
 
 #### 👨🏻‍💻  About Me
 
-- 🔭 I’m currently working on [OpenBook](https://github.com/mohamdhashim/WebProjects/tree/main/OpenBook)
+- 🔭 I’m currently working on [CoolMail](https://github.com/mohamdhashim/WebProjects/tree/main/CoolMail)
 
 - 🌱 I’m currently learning **Full-stack Web Development || Software Architecture || Design Patterns**
 
