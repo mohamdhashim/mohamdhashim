@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [CoolMail](https://github.com/mohamdhashim/WebProjects/tree/main/CoolMail)
 
-- 🌱 I’m currently level up my skills and mainly focus on ** System Design || Software Architecture || Advanced using Design Patterns & OOP**
+- 🌱 I’m currently level up my skills and mainly focus on ** System Design || Software Architecture || Advanced using Design Patterns & OOP **
 
 - :space_invader: I’m looking forward to collaborate on [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython) || [Django](https://github.com/django/django)
 
-- 💻 I mainly code in **Python and C++**
+- **💻 I mainly work with Java & PHP**, crafting innovative AI and automation scripts in Python, while exploring new frameworks and languages to uncover their unique strengths.
 
 - 💬 Ask me about **Backend Development || Problem solving || NLP**
 
