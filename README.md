@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [CoolMail](https://github.com/mohamdhashim/WebProjects/tree/main/CoolMail)
 
-- 🌱 I’m currently learning **Full-stack Web Development || Software Architecture || Design Patterns**
+- 🌱 I’m currently level up my skills and mainly focus on ** System Design || Software Architecture || Advanced using Design Patterns & OOP**
 
 - :space_invader: I’m looking forward to collaborate on [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython) || [Django](https://github.com/django/django)
 
