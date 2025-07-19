@@ -10,7 +10,7 @@
 
 - **💻 I mainly work with Java & PHP**, crafting innovative AI and automation scripts in Python, while exploring new frameworks and languages to uncover their unique strengths.
 
-- 💬 Ask me about **Backend Development || Problem solving || NLP**
+- 💬 Ask me about **Backend Development || Problem solving**
 
 - 😄 Pronouns: **_he/him_**  
 
