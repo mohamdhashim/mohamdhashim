@@ -1,41 +1,133 @@
-<h1 align="center">Hi 👋🏽, I'm Mohamed <img src="https://emojis.slackmojis.com/emojis/images/1617668603/27681/script_code.gif?1617668603" width="40"/></h1>
-<h3 align="center">Software Developer || Competitive programmer</h3>
+<div align="center">
 
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║        git clone https://github.com/mohamdhashim        ║
+║        > Cloning a backend engineer...                   ║
+║        > Loading curiosity... ████████████ 100%          ║
+║        > Brewing coffee... ████████████ 100%             ║
+║        > Done. Mohamed Hashim is ready. 🚀               ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-#### 👨🏻‍💻  About Me
+# Mohamed Hashim
 
-- 🔭 I’m currently working on [CoolMail](https://github.com/mohamdhashim/WebProjects/tree/main/CoolMail)
+**Backend Engineer · Competitive Programmer · Builder of Things**
 
-- 🌱 I’m currently level up my skills and mainly focus on ** System Design || Software Architecture || Advanced using Design Patterns & OOP **
+*Currently making education smarter at* **Pearson UK** 📚
 
-- **💻 I mainly work with Java & PHP**, crafting innovative AI and automation scripts in Python, while exploring new frameworks and languages to uncover their unique strengths.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamd--hashim-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamd-hashim/)
+[![Email](https://img.shields.io/badge/Email-mohamdhashiem%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamdhashiem@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-mohamdhashim-181717?style=flat-square&logo=github)](https://github.com/mohamdhashim)
 
-- 💬 Ask me about **Backend Development || Problem solving**
+</div>
 
-- 😄 Pronouns: **_he/him_**  
+---
 
-- 📫 How to reach me **mohamdhashiem@gmail.com**
+## `$ whoami`
 
-[![Mohamd's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohamdhashim&theme=xcode)](https://git.io/mohamdhashim)
+```java
+public class Mohamed extends BackendEngineer {
 
+    String[] currentlyObsessedWith = {
+        "System Design",
+        "Software Architecture",
+        "Design Patterns & OOP",
+        "Building things that actually scale"
+    };
 
+    String[] buildingRightNow = {
+        "🎮 Ghalayan  — A competitive cooking game in Unity & C#",
+        "📚 Saboora   — A course platform where instructors own their content"
+    };
 
- <p align="center">
-  &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamdhashim&show_icons=true&locale=en&theme=radical" alt="mohamedhashim" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamdhashim&theme=radical" alt="mohamedhashim" />
-</p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamdhashim&show_icons=true&locale=en&layout=compact&theme=radical" alt="mohamedHashim" /></p>
+    String superpower = "Turning complex problems into clean, boring code.";
 
+    boolean drinksCoffee = true; // non-negotiable
 
+}
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
-     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+---
 
+## `$ ls ./skills`
 
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamd-hashim/" target="blank"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg></a>
-</p>
+| Languages | Backend | Tools & Infra |
+|:---------:|:-------:|:-------------:|
+| Java · PHP · Python | Spring Boot · Django · REST APIs | Git · Docker · Linux |
+| C++ · JavaScript | Microservices · Kafka · Redis | MySQL · PostgreSQL · SQLite |
+| C# · SQL | System Design · Clean Architecture | CI/CD · Nginx · VPS |
+
+</div>
+
+---
+
+## `$ cat projects.txt`
+
+### 🎮 Ghalayan *(Private — cooking something up)*
+> A real-time **competitive cooking game** built with Unity & C#.  
+> Players race to execute recipes under pressure — think Iron Chef meets competitive gaming.  
+> *Mechanics, UI, game logic — all from scratch.*
+
+---
+
+### 📚 Saboora *(In Development)*
+> A **course platform** that gives instructors full control to build and publish their courses.  
+> No middlemen. Just educators and their content.
+
+---
+
+### 🤖 [Closed-Domain QA System](https://github.com/mohamdhashim/Closed-domain-Question-answering-System)
+> Question answering over large document corpora using **BERT**.  
+> Short, precise answers from thousands of documents. 95% accuracy. No hallucinations.
+
+---
+
+### ♟️ [Unbeatable Tic-Tac-Toe AI](https://github.com/mohamdhashim/Tic-tac-toe-ubeatable-AI)
+> **Minimax algorithm** implementation in Java. It genuinely cannot be beaten.  
+> A love letter to game theory.
+
+---
+
+### 📊 [WikiTable2Excel](https://github.com/mohamdhashim/WikiTable2Excel)
+> Python scraper that pulls Wikipedia tables into Excel — hyperlinks intact.  
+> Because copy-pasting is beneath us.
+
+---
+
+## `$ git log --oneline --graph`
+
+<div align="center">
+
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mohamdhashim&theme=tokyo-night&hide_border=true&area=true)](https://github.com/mohamdhashim)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamdhashim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/mohamdhashim)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamdhashim&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/mohamdhashim)
+
+</div>
+
+---
+
+## `$ echo $CURRENT_FOCUS`
+
+```
+> Mastering: System Design | Software Architecture | Advanced OOP & Design Patterns
+> Exploring: Unity game development | EdTech product building
+> Reading:   Anything that makes me a 1% better engineer
+```
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+**— Open to interesting problems, collaborations, and remote opportunities.**
+
+![Profile views](https://komarev.com/ghpvc/?username=mohamdhashim&color=blueviolet&style=flat-square)
+
+</div>
