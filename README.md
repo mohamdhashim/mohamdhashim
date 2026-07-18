@@ -39,7 +39,7 @@ public class Mohamed extends BackendEngineer {
     };
 
     String[] buildingRightNow = {
-        "🎮 Ghalayan  — A competitive cooking game in Unity & C#",
+        "🎮 Ghalayan  — A competitive cooking game in Unity & C#" // hope continue working on it,
         "📚 Saboora   — A course platform where instructors own their content"
     };
 
